@@ -29,13 +29,8 @@ The goals / steps of this project are the following:
 [image15]: ./examples/augment_flipped_center_2016_12_01_13_44_57_783.jpg "Flipped Image"
 [image16]: ./examples/with_flipped_samples-histogram.png "Final Histogram"
 
-## Rubric Points
-###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.  
 
----
-## Files Submitted & Code Quality
-
-#### 1. Submission includes all required files and can be used to run the simulator in autonomous mode
+#### 1. Files
 
 My project includes the following files:
 * model.py containing the script to create and train the model
